@@ -12,6 +12,7 @@ This repository documents my journey to becoming an AI Engineer - from Python ba
 | **strings.py** | String manipulation practice | [View](./strings.py) |
 | **movie ticket booking calculator.py** | Calculates movie ticket prices | [View](./movie%20ticket%20booking%20calculator.py) |
 | **hangman.py** | Classic Hangman word-guessing game | [View](./hangman.py) |
+| **chatbot.py** | basic chatbot | [view](./chatbot.py) |
 
 ### 🛠️ Skills Learning
 - Python
